@@ -1,0 +1,18 @@
+# 草莓采摘检测配置
+
+# 模型路径
+det_model: runs/detect/strawberry_stem_detection/weights/best.pt
+cls_model: runs/classify/strawberry_ripeness/weights/best.pt
+
+# 检测置信度
+det_conf: 0.1
+cls_unripe_threshold: 0.6
+
+# 图片来源目录
+source: dataset/test/images
+
+# 结果保存目录
+save_dir: harvest_results
+
+# Web 端口http://localhost:8000
+port: 8000

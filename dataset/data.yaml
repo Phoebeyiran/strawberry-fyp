@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['stem', 'strawberry']
+
+roboflow:
+  workspace: edge-computing-workspace
+  project: strawberry-stem-label-labelme
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/edge-computing-workspace/strawberry-stem-label-labelme/dataset/1

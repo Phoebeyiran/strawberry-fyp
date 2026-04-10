@@ -1,0 +1,269 @@
+{
+  "totals": {
+    "ripe": 11,
+    "overripe": 3,
+    "unripe": 4,
+    "total": 18
+  },
+  "ripe_ratio_pct": 61.1,
+  "advice": {
+    "zh": "部分可采摘 — 成熟率 61.1%，可选择性采摘成熟果实",
+    "en": "Partially harvestable — ripe ratio 61.1%, selectively pick ripe ones"
+  },
+  "images": [
+    {
+      "image": "IMG_20230225_130948_jpg.rf.3d7689bbd61d84ab31837d40039b96b4.jpg",
+      "ripe": 2,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 2,
+      "pick_points": [
+        {
+          "pixel": [
+            311,
+            285
+          ],
+          "confidence": 1.0
+        },
+        {
+          "pixel": [
+            254,
+            303
+          ],
+          "confidence": 0.849
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 59.8
+    },
+    {
+      "image": "IMG_20230225_131646_jpg.rf.c2f5d978c86c948ada56be9b188f1b0d.jpg",
+      "ripe": 3,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 3,
+      "pick_points": [
+        {
+          "pixel": [
+            233,
+            357
+          ],
+          "confidence": 0.992
+        },
+        {
+          "pixel": [
+            134,
+            388
+          ],
+          "confidence": 0.99
+        },
+        {
+          "pixel": [
+            477,
+            160
+          ],
+          "confidence": 1.0
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 515.6
+    },
+    {
+      "image": "IMG_20230225_131933_jpg.rf.4b7bbc0ad79183455ad54222890b66c2.jpg",
+      "ripe": 1,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 1,
+      "pick_points": [
+        {
+          "pixel": [
+            287,
+            213
+          ],
+          "confidence": 0.571
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230225_133635_jpg.rf.57a5c103ba7fbc986ec09eaff57423fc.jpg",
+      "ripe": 0,
+      "overripe": 0,
+      "unripe": 1,
+      "total": 1,
+      "pick_points": [],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230225_133744_jpg.rf.785a2b8dd87a00bb8297eccf74f7a052.jpg",
+      "ripe": 1,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 1,
+      "pick_points": [
+        {
+          "pixel": [
+            369,
+            269
+          ],
+          "confidence": 0.988
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230225_133747_jpg.rf.55de552888b7a512a358493438210453.jpg",
+      "ripe": 0,
+      "overripe": 0,
+      "unripe": 1,
+      "total": 1,
+      "pick_points": [],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230225_134132_jpg.rf.58011afc21bfc1c4c204680ea9146f4a.jpg",
+      "ripe": 1,
+      "overripe": 0,
+      "unripe": 1,
+      "total": 2,
+      "pick_points": [
+        {
+          "pixel": [
+            328,
+            225
+          ],
+          "confidence": 0.996
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230225_134432_jpg.rf.543c3c6e3a667e59c54cfb431397903c.jpg",
+      "ripe": 2,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 2,
+      "pick_points": [
+        {
+          "pixel": [
+            363,
+            142
+          ],
+          "confidence": 1.0
+        },
+        {
+          "pixel": [
+            266,
+            445
+          ],
+          "confidence": 0.519
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 318.1
+    },
+    {
+      "image": "IMG_20230226_130001_jpg.rf.d56da2de61f9b0ccf65792f45d3ae595.jpg",
+      "ripe": 0,
+      "overripe": 0,
+      "unripe": 1,
+      "total": 1,
+      "pick_points": [],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "IMG_20230226_133452_jpg.rf.8f0aeee1e262cd2cb7c39f2e2cab8fdd.jpg",
+      "ripe": 1,
+      "overripe": 0,
+      "unripe": 0,
+      "total": 1,
+      "pick_points": [
+        {
+          "pixel": [
+            359,
+            280
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "overripe_list": [],
+      "path_distance": 0.0
+    },
+    {
+      "image": "48de942c-4934-43d4-ba5a-1d896ede2c26.png",
+      "ripe": 0,
+      "overripe": 3,
+      "unripe": 0,
+      "total": 3,
+      "pick_points": [],
+      "overripe_list": [
+        {
+          "bbox": [
+            330.5,
+            560.6,
+            800.2,
+            1087.4
+          ],
+          "confidence": 0.973
+        },
+        {
+          "bbox": [
+            634.5,
+            342.2,
+            1018.4,
+            761.9
+          ],
+          "confidence": 0.996
+        },
+        {
+          "bbox": [
+            0.0,
+            708.6,
+            360.6,
+            1156.2
+          ],
+          "confidence": 0.915
+        }
+      ],
+      "path_distance": 0.0
+    }
+  ],
+  "overripe_details": [
+    {
+      "image": "48de942c-4934-43d4-ba5a-1d896ede2c26.png",
+      "bbox": [
+        330.5,
+        560.6,
+        800.2,
+        1087.4
+      ],
+      "confidence": 0.973
+    },
+    {
+      "image": "48de942c-4934-43d4-ba5a-1d896ede2c26.png",
+      "bbox": [
+        634.5,
+        342.2,
+        1018.4,
+        761.9
+      ],
+      "confidence": 0.996
+    },
+    {
+      "image": "48de942c-4934-43d4-ba5a-1d896ede2c26.png",
+      "bbox": [
+        0.0,
+        708.6,
+        360.6,
+        1156.2
+      ],
+      "confidence": 0.915
+    }
+  ]
+}
